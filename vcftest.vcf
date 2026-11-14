@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Rosano;Joel;;;
-FN:Joel Rosano
-TEL;TYPE=CELL,VOICE,PREF:+12015551212
-EMAIL;TYPE=INTERNET,WORK,PREF:jlrosano4@gmail.com
-ADR;TYPE=HOME,PREF:;;PO Box 522;Midland Park;NJ;07432;United States
-URL;TYPE=WORK:https://www.g2mediallc.com
+N:Capozzi;Rick;;;
+FN:Rick Capozzi
+TITLE:President
+ORG:Capozzi Advisory Group
+TEL;TYPE=CELL,VOICE,PREF:+12018411780
+EMAIL;TYPE=INTERNET,WORK,PREF:rick@capozziadvisorygroup.com
+ADR;TYPE=HOME,PREF:;;PO Box 12345;Franklin Lakes;NJ;07417;United States
+URL;TYPE=WORK:https://www.capozziadvisorygroup.com
 END:VCARD
