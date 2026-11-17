@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Capozzi;Bianca;;;
+FN:Bianca Capozzi
+TITLE:Financial Planning Specialist
+ORG:Morgan Stanley / The Palm Oaks Group
+TEL;TYPE=WORK,VOICE,PREF:+19738903040
+EMAIL;TYPE=INTERNET,WORK,PREF:bianca.capozzi@morganstanley.com
+ADR;TYPE=WORK,PREF:;;150 Clove Road;Little Falls;NJ;07424;United States
+URL;TYPE=WORK:https://www.linkedin.com/in/bianca-capozzi
+URL;TYPE=WORK:https://advisor.morganstanley.com/the-palm-oaks-group
+END:VCARD
